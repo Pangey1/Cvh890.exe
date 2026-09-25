@@ -1,4 +1,4 @@
-                  C             V            H        8          9           0      .      E         X         E
+              C             V            H           8          9           0      .      E         X         E
 My new malware in c++
 Malware created by Pangey1
 !!!WARNIG!!!
